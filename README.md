@@ -1,8 +1,7 @@
 # 🛰️ MATLAB Satellite Tracking & Visualization Tool
 
 **Author**: Ravi Teja Vadla  
-**License**: MIT (c) 2025 Ravi Teja Vadla  
-**Institution**: Sapienza University of Rome  
+**License**: MIT (c) 2025 Ravi Teja Vadla   
 **Language**: MATLAB
 
 ---
