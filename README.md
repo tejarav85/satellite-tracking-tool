@@ -54,7 +54,7 @@ This is a real-time satellite tracking and telemetry visualization tool built us
 
 | GUI | 3D Viewer | 2D Ground Track |
 |-----|-----------|-----------------|
-| ![GUI](images/gui_interface.png) | ![3D](images/eci_orbit.png) | ![2D](images/ground_track.png) |
+| ![GUI](Images/gui_interface.png) | ![3D](images/eci_orbit.png) | ![2D](Images/ground_track.png) |
 
 ---
 
